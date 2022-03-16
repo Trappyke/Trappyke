@@ -1,6 +1,6 @@
 
 
-![My card name](https://cardivo.vercel.app/api?name=TRAPPY&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/98483628?s=400&u=d0bc833d6e92330024267f951217ea343c939b09&v=4&backgroundColor=%23ecf0f1&instagram=trappy.ke&github=Trappykew&twitter=Trappy_W&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=TRAPPY&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/98483628?s=400&u=d0bc833d6e92330024267f951217ea343c939b09&v=4&backgroundColor=%23ecf0f1&instagram=trappy.ke&github=Trappyke&twitter=Trappy_W&pattern=leaf&colorPattern=%23eaeaea)
 
 <h1 align="center">Hi 👋, I'm Trappy</h1>
 
