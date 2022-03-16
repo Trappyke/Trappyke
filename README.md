@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on TracerTech INC Website
 
-- 🌱 I’m currently learning **C#, Python, java**
+- 🌱 I’m currently learning **C#, Python, java, Dart** Language
 
 - 🤝 I’m looking for help with Nothing
 
