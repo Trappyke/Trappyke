@@ -23,7 +23,12 @@ A Full Stack Web Developer, Network engineer and a student currently enrolled in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/trappy.ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trappy" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCLOUU92x6cAmacsKv5VXkYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trappy" height="30" width="40" /></a><a href="https://wa.me/254727472670?text=hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="trappy" height="30" width="40" /></a><a href="https://t.me/T_rappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="trappy" height="30" width="40" /></a>
+ <a href="https://ke.linkedin.com/in/weston-wanjohi" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="trappy" height="30" width="40" /></a>
+<a href="https://instagram.com/trappy.ke" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trappy" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/UCLOUU92x6cAmacsKv5VXkYg" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trappy" height="30" width="40" /></a><a href="https://wa.me/254727472670?text=hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="trappy" height="30" width="40" /></a><a href="https://t.me/T_rappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="trappy" height="30" width="40" /></a>
 
 </p>
 
