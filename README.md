@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Weston Wanjohi</h1>
 A Full Stack Web Developer, Network engineer and a student currently enrolled in a Diploma program at Zetech University and persuing a self-tought full-stack developer nano-degree at Udacity sponserd by ALX. I Spend most of time coding and learning new skills from Youtube, Udacity, Udemy, Frontend masters and Pluralsight.
 
-:mailbox: Reach me out!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Trappyke&label=Profile%20views&color=0e75b6&style=flat" alt="trappy" /> </p>
 
