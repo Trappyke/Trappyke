@@ -3,7 +3,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=Weston_Wanjohi&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/98483628?s=400&u=d0bc833d6e92330024267f951217ea343c939b09&v=4&backgroundColor=%23ecf0f1&instagram=trappy.ke&github=Trappyke&twitter=Trappy_W&pattern=leaf&colorPattern=%23eaeaea)
 
 <h1 align="center">Hi 👋, I'm Weston Wanjohi</h1>
-A Full Stack Web Developer, Network engineer and a student currently enrolled in a Diploma program at Zetech University and persuing a self-tought full-stack developer nano-degree at Udacity sponserd by ALX. I Spend most of time coding and learning new skills from Youtube, Udacity, Udemy, Frontend masters and Pluralsight.
+A Full Stack Web Developer,Cloud architect, Network engineer and a student currently enrolled in a Diploma program at Zetech University and persuing a self-tought full-stack developer nano-degree at Udacity sponserd by ALX. I Spend most of time coding and learning new skills from Youtube, Udacity, Udemy, Frontend masters and Pluralsight.
 
 <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Trappyke&label=Profile%20views&color=0e75b6&style=flat" alt="trappy" /> </p>
