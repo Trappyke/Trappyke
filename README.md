@@ -107,7 +107,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### 1.1.5. Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Kevinmuriuki&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Traappyke&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ### 1.1.6 Most Languages Used
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trappyke&layout=compact&theme=tokyonight" alt="my_stats"/>
